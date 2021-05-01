@@ -1,7 +1,6 @@
 - 👋 Hello, this is @cartmanbrahh 
 - 👀 Interests :  Spatial econometrics, neural networks and NLP ! 
 - 🌱 I’m currently competing on Kaggle on various projects : mainly classification & some image processing. 
-- 📫 You can reach me at ankita.bhattacharya@sciencespo.fr
 
 <!---
 cartmanbrahh/cartmanbrahh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
